@@ -10,3 +10,5 @@
 - [7. Culture & Rituels](07-culture.md)
 - [8. Onboarding & Vie pratique](08-onboarding.md)
 - [9. Glossaire & Ressources](09-glossary.md)
+- [10. Terranova étape par étape](10-terranova.md)
+- [11. Cas pratiques](11-case-studies.md)
