@@ -1,129 +1,37 @@
 # Semisto Starter Kit
 
-Kit de démarrage pour les nouveaux Labs du réseau Semisto.
+Bienvenue dans le kit de démarrage officiel des Labs Semisto. Ce dépôt héberge la documentation GitBook destinée :
 
-## Qu'est-ce qu'un Lab Semisto ?
+- aux nouvelles personnes qui rejoignent le réseau (bénévoles, salariés, partenaires),
+- aux équipes existantes qui ont besoin d’un rappel structuré (gouvernance, outils, process),
+- aux futurs Labs européens qui veulent comprendre le modèle Semisto avant de lancer leur antenne.
 
-Un Lab est une antenne locale du réseau européen Semisto, spécialisée dans la conception et la réalisation de forêts comestibles et jardins multi-étagés. Chaque Lab opère de manière autonome tout en partageant l'infrastructure, les contenus pédagogiques et les standards de qualité du réseau.
+📚 **Comment lire ce kit ?**
 
-## Les 4 pôles d'un Lab
+1. Lisez le fichier `SUMMARY.md` pour voir la table des matières GitBook.
+2. Chaque page est écrite en Markdown et peut être lue directement sur GitHub ou via GitBook.
+3. Les sections reprennent les éléments clés du Manuel de Semisto (gouvernance, playbook stratégique, guides outils) mais en version orientée “onboarding rapide”.
 
-### 🌳 Design Studio
-Bureau d'études en agroforesterie régénérative
-- Conception de forêts-jardins sur mesure
-- Études de faisabilité technique et économique
-- Plans de plantation et calendriers d'entretien
-- Suivi post-plantation
+🧱 **Structure des dossiers**
 
-### 🎓 Academy
-Formations en design régénératif
-- PDC (Permaculture Design Certificate)
-- Design de forêts-jardins
-- Agroforesterie régénérative
-- Formations sur-mesure
+```
+- README.md            → cette introduction
+- SUMMARY.md           → table des matières GitBook
+- 01-welcome.md        → Vision & principes
+- 02-governance.md     → Gouvernance, cercles, subsidiarité
+- 03-operations.md     → Cadences, cycles, reporting
+- 04-tools.md          → Terranova, Slack, Notion, stack AI
+- 05-workstreams.md    → Design Studio, Academy, Nursery, Roots
+- 06-strategy.md       → Roadmap 2024‑2035, veille, indicateurs
+- 07-culture.md        → Valeurs, rituels, Semisto Days
+- 08-onboarding.md     → Parcours d’arrivée & FAQ pratiques
+- 09-glossary.md       → Termes clés & acronymes
+```
 
-### 🌱 Nursery
-Pépinière de plantes natives et comestibles
-- Espèces d'arbres fruitiers adaptés au climat local
-- Plantes vivaces comestibles
-- Arbustes à baies natives
-- Mycorhizes et amendements naturels
+🤝 **Contribuer**
 
-### 🤝 Roots
-Communauté de bénévoles et contributeurs
-- Chantiers participatifs
-- Programmes de volontariat
-- Événements de récolte collective
-- Rencontres inter-Labs
+- Ouvrez une issue ou une PR avec vos suggestions.
+- Mentionnez la source (Manuel, Compass, décision Slack, etc.).
+- Gardez le ton Semisto : chaleureux, concret, axé impact.
 
-## Principe de subsidiarité
-
-Semisto fonctionne selon le principe de **subsidiarité** : chaque décision doit être prise au niveau le plus bas capable de la gérer efficacement.
-
-**Décisions au niveau Lab** :
-- Programmation des formations locales
-- Recrutement des bénévoles Roots
-- Design des projets clients
-- Relations avec les pépinières locales
-
-**Décisions au niveau Réseau** :
-- Identité de marque commune
-- Architecture Terranova (plateforme)
-- Standards pédagogiques Academy
-- Tarification globale Design Studio
-
-## Démarrer un Lab
-
-### 1. Territoire
-- Zone géographique définie (région, département)
-- Contexte climatique et pédologique connu
-- Réseau local identifié (collectivités, associations, particuliers)
-
-### 2. Équipe
-- Coordinateur·rice Lab (design + gestion)
-- Formateur·rice certifié·e (PDC minimum)
-- Référent·e technique (agroforesterie)
-- Communauté Roots (bénévoles)
-
-### 3. Infrastructure
-- Accès à Terranova (plateforme réseau)
-- Site vitrine local (sous-domaine semisto.org)
-- Espace de démonstration/formation (optionnel mais recommandé)
-
-### 4. Modèle économique
-Les Labs fonctionnent avec un **stack de revenus** diversifiés :
-- Formation & éducation (40% année 1-2)
-- Services de design (30%)
-- Pépinière & plantes (20%)
-- Volontariat payant (10%)
-- Expériences & tourisme régénératif (année 2+)
-- Plateforme & données (année 3+)
-- Produits & récoltes (année 5+)
-
-## Ressources communes
-
-### Terranova
-Plateforme centrale du réseau :
-- Gestion des projets Design Studio
-- Catalogue formations Academy
-- Coordination bénévoles Roots
-- Base de connaissances partagée
-- Revenue Streams Dashboard
-
-### Contenus pédagogiques
-- Supports de formation standardisés
-- Templates de design
-- Bibliothèque de ressources
-- Vidéos et tutoriels
-
-### Identité de marque
-- Charte graphique
-- Templates communication
-- Guidelines réseaux sociaux
-
-## Rejoindre le réseau
-
-Pour créer un nouveau Lab Semisto :
-
-1. **Manifestation d'intérêt** — Contact via semisto.org/contact
-2. **Rencontre exploratoire** — Visio avec coordination réseau
-3. **Phase pilote** (3-6 mois) — Tester le modèle localement
-4. **Validation** — Accès complet Terranova + identité Lab officielle
-
-## Labs existants
-
-- **Wallonie** (Belgique) — Lab pilote, Les 4 Sources (Yvoir)
-- **Île-de-France** (France) — Montreuil
-- **Catalogne** (Espagne) — Girona
-- **Rheinland** (Allemagne) — Bonn
-
-## Contact
-
-**Réseau Semisto**  
-Website : https://semisto.org  
-Email : contact@semisto.org  
-GitHub : https://github.com/semisto-org
-
----
-
-*Ce repo évoluera avec les retours des Labs et les besoins du réseau. Contributions bienvenues !*
+Ce projet vit avec le réseau — merci pour vos retours !
