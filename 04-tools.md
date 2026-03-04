@@ -28,10 +28,11 @@ Nos outils servent la transparence, la collaboration distribuée et l’automati
   - Documentez les décisions hors Slack (Compass/Terranova) et partagez le lien.
   - Utilisez les threads pour garder les discussions lisibles.
 
-## 4.3 Notion & Compass
-- **Compass** (GitHub + Astro) : documentation publique/partagée, playbooks, politiques.
-- **Notion** : espaces de travail temporaires, notes de réunions, suivi projets internes (quand Terranova ne suffit pas encore).
-- **Règle** : quand le processus se stabilise, migrez-le vers Compass ou Terranova.
+## 4.3 Starter Kit (GitBook)
+- **Starter Kit** (ce repo) remplace Compass comme source officielle : toutes les procédures, chartes et guides doivent vivre ici.
+- L’intégration GitBook ↔ GitHub assure la publication automatique pour les équipes.
+- **Compass** reste disponible en lecture seule le temps de la transition, mais n’est plus mis à jour.
+- **Notion** n’est plus utilisé : migrez vos notes/process dans Terranova ou dans ce Starter Kit.
 
 ## 4.4 Stack IA & automatisations
 - **ChatGPT / Codex / Nova** : assistance rédaction, synthèse, prototypage. Toujours relire et “humaniser” avant diffusion (cf. skill humanizer).

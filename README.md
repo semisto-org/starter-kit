@@ -10,7 +10,7 @@ Bienvenue dans le kit de démarrage officiel des Labs Semisto. Ce dépôt héber
 
 1. Lisez le fichier `SUMMARY.md` pour voir la table des matières GitBook.
 2. Chaque page est écrite en Markdown et peut être lue directement sur GitHub ou via GitBook.
-3. Les sections reprennent les éléments clés du Manuel de Semisto (gouvernance, playbook stratégique, guides outils) mais en version orientée “onboarding rapide”.
+3. **Ce Starter Kit remplace Compass** : toutes les futures mises à jour de process, gouvernance et outils doivent vivre ici (GitBook ↔ repo). Compass reste accessible en lecture seule le temps de la transition.
 
 🧱 **Structure des dossiers**
 
